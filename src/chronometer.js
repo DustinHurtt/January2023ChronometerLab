@@ -1,5 +1,6 @@
 class Chronometer {
   constructor() {
+    aslkdjalskdj
     // ... your code goes here
   }
 
